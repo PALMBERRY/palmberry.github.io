@@ -16,12 +16,13 @@ theme:
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
-    github: logle.cn
-    twitter: logle.cn
-    facebook: logle.cn
-    gplus: +logle.cn
+    github: palmberry
+    weibo: Palm_Berry
+    # twitter: logle.cn
+    # facebook: logle.cn
+    # gplus: +logle.cn
     # dribble: logle.cn
-    pinterest: logle.cn
+    # pinterest: logle.cn
 
   # Enable share buttons on post footer
   show_share_buttons: true
